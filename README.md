@@ -1,4 +1,4 @@
-# docker-cwebdav
+# docker-nginx-webdav
 This image runs an easily configurable WebDAV server with nginx, support plain, selfsigned or Let's Encrypt certificate.
 
 * **Code repository:** https://github.com/jinlife/docker-nginx-webdav
